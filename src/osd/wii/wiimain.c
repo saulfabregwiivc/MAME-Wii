@@ -121,7 +121,8 @@ int main(int argc, char *argv[])
 
 	// cli_execute does the heavy lifting; if we have osd-specific options, we
 	// would pass them as the third parameter here
-	ret = cli_execute(nargc, (char **) nargv, wii_mame_options);
+	//ret = cli_execute(nargc, (char **) nargv, wii_mame_options);
+	ret = cli_execute(argc, argv, wii_mame_options);
 
 	wii_shutdown_video();
 	
