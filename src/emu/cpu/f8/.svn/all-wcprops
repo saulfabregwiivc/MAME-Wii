@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/f8
+END
+f8.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/f8/f8.c
+END
+f8dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/f8/f8dasm.c
+END
+f8.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/f8/f8.h
+END

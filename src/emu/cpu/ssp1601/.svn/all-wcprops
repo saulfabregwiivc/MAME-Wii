@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/ssp1601
+END
+ssp1601.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/ssp1601/ssp1601.c
+END
+ssp1601d.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/ssp1601/ssp1601d.c
+END
+ssp1601.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/ssp1601/ssp1601.h
+END

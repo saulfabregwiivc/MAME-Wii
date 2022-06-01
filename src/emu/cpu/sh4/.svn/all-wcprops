@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh4
+END
+sh4comn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh4/sh4comn.h
+END
+sh4dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh4/sh4dasm.c
+END
+sh4.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh4/sh4.h
+END
+sh4regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh4/sh4regs.h
+END
+sh4comn.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh4/sh4comn.c
+END
+sh4.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh4/sh4.c
+END

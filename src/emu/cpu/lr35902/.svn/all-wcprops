@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/lr35902
+END
+opc_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/lr35902/opc_main.h
+END
+opc_cb.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/lr35902/opc_cb.h
+END
+lr35902.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/lr35902/lr35902.c
+END
+lr35902d.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/lr35902/lr35902d.c
+END
+lr35902.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/lr35902/lr35902.h
+END

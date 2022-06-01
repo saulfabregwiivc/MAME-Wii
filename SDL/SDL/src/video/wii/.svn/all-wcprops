@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/SDL/SDL/src/video/wii
+END
+SDL_wiivideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19/Release_1.0/SDL/SDL/src/video/wii/SDL_wiivideo.c
+END

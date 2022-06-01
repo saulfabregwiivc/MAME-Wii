@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/spc700
+END
+spc700ds.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/spc700/spc700ds.h
+END
+spc700.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/spc700/spc700.c
+END
+spc700.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/spc700/spc700.h
+END
+spc700ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/spc700/spc700ds.c
+END

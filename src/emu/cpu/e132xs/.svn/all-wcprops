@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/e132xs
+END
+32xsdasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/e132xs/32xsdasm.c
+END
+e132xsop.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/e132xs/e132xsop.c
+END
+e132xs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/e132xs/e132xs.c
+END
+e132xs.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/e132xs/e132xs.h
+END

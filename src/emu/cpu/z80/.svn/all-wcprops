@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/z80
+END
+z80daisy.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/z80/z80daisy.h
+END
+z80.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/z80/z80.c
+END
+z80.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/z80/z80.h
+END
+z80dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/z80/z80dasm.c
+END
+z80daisy.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/z80/z80daisy.c
+END

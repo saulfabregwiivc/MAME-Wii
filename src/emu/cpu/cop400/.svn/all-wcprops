@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/cop400
+END
+cop400.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/cop400/cop400.c
+END
+cop400.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/cop400/cop400.h
+END
+cop410ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/cop400/cop410ds.c
+END
+cop420ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/cop400/cop420ds.c
+END
+cop440ds.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/cop400/cop440ds.c
+END
+cop400op.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/cop400/cop400op.c
+END

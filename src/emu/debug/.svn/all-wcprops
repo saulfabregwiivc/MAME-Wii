@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/19/Release_1.0/src/emu/debug
+END
+textbuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/textbuf.h
+END
+debugcon.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcon.c
+END
+express.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/express.c
+END
+debughlp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debughlp.c
+END
+debugcmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcmt.c
+END
+debugcon.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcon.h
+END
+express.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/express.h
+END
+debugcpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcpu.c
+END
+debugcmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcmt.h
+END
+debughlp.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debughlp.h
+END
+debugvw.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugvw.c
+END
+debugcpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcpu.h
+END
+debugvw.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugvw.h
+END
+debugcmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcmd.c
+END
+debugcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/debugcmd.h
+END
+textbuf.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/debug/textbuf.c
+END

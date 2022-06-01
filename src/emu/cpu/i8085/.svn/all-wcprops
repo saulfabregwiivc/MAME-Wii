@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i8085
+END
+i8085.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i8085/i8085.c
+END
+i8085.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i8085/i8085.h
+END
+8085dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i8085/8085dasm.c
+END
+i8085cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i8085/i8085cpu.h
+END

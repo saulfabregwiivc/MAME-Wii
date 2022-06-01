@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/hd6309
+END
+hd6309.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/hd6309/hd6309.h
+END
+6309tbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/hd6309/6309tbl.c
+END
+6309ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/hd6309/6309ops.c
+END
+6309dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/hd6309/6309dasm.c
+END
+hd6309.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/hd6309/hd6309.c
+END

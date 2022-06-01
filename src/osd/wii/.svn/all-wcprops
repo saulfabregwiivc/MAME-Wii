@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/19/Release_1.0/src/osd/wii
+END
+wiiaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiiaudio.h
+END
+wiivideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiivideo.c
+END
+wiithread.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiithread.c
+END
+wiivideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiivideo.h
+END
+wiisync.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiisync.c
+END
+wiithread.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiithread.h
+END
+osinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/osinline.h
+END
+wiidir.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiidir.c
+END
+wiifile.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiifile.c
+END
+wiiwork.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiiwork.c
+END
+wiimain.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiimain.c
+END
+wiimisc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiimisc.c
+END
+wiitime.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiitime.c
+END
+wiiinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiiinput.c
+END
+wiimisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiimisc.h
+END
+wiiaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiiaudio.c
+END
+wiiinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wiiinput.h
+END
+wii.mak
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/wii/wii.mak
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/dsp32
+END
+dsp32.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/dsp32/dsp32.c
+END
+dsp32dis.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/dsp32/dsp32dis.c
+END
+dsp32ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/dsp32/dsp32ops.c
+END
+dsp32.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/dsp32/dsp32.h
+END

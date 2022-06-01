@@ -1,0 +1,6269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers
+END
+vastar.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vastar.c
+END
+crimfght.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/crimfght.c
+END
+triplhnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/triplhnt.c
+END
+srmp5.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/srmp5.c
+END
+wolfpack.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wolfpack.c
+END
+gunpey.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gunpey.c
+END
+m57.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m57.c
+END
+tankbatt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tankbatt.c
+END
+royalmah.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/royalmah.c
+END
+crospang.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/crospang.c
+END
+darkmist.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/darkmist.c
+END
+bingor.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bingor.c
+END
+funybubl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/funybubl.c
+END
+atarigt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atarigt.c
+END
+miniboy7.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/miniboy7.c
+END
+nycaptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nycaptor.c
+END
+mitchell.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mitchell.c
+END
+blktiger.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blktiger.c
+END
+39in1.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/39in1.c
+END
+deco_mlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/deco_mlc.c
+END
+hvyunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hvyunit.c
+END
+rollerg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rollerg.c
+END
+pirates.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pirates.c
+END
+cham24.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cham24.c
+END
+bublbobl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bublbobl.c
+END
+rotaryf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rotaryf.c
+END
+thepit.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/thepit.c
+END
+coinmstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/coinmstr.c
+END
+docastle.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/docastle.c
+END
+bfcobra.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bfcobra.c
+END
+sbugger.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sbugger.c
+END
+rpunch.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rpunch.c
+END
+cloud9.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cloud9.c
+END
+mystston.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mystston.c
+END
+albazg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/albazg.c
+END
+bingoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bingoc.c
+END
+dynduke.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dynduke.c
+END
+magicard.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/magicard.c
+END
+mosaic.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mosaic.c
+END
+snowbros.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/snowbros.c
+END
+nbmj9195.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nbmj9195.c
+END
+m107.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m107.c
+END
+copsnrob.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/copsnrob.c
+END
+cntsteer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cntsteer.c
+END
+skeetsht.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skeetsht.c
+END
+dblewing.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dblewing.c
+END
+labyrunr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/labyrunr.c
+END
+expro02.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/expro02.c
+END
+mainsnk.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mainsnk.c
+END
+ccastles.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ccastles.c
+END
+ddragon3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ddragon3.c
+END
+tryout.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tryout.c
+END
+rampart.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rampart.c
+END
+bfm_sc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bfm_sc1.c
+END
+discoboy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/discoboy.c
+END
+murogem.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/murogem.c
+END
+segaxbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segaxbd.c
+END
+cave.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cave.c
+END
+rungun.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rungun.c
+END
+policetr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/policetr.c
+END
+dec8.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dec8.c
+END
+hcastle.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hcastle.c
+END
+arabian.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/arabian.c
+END
+taito_o.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_o.c
+END
+speedatk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/speedatk.c
+END
+pipedrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pipedrm.c
+END
+coinmvga.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/coinmvga.c
+END
+cultures.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cultures.c
+END
+powerins.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/powerins.c
+END
+senjyo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/senjyo.c
+END
+tgtpanic.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tgtpanic.c
+END
+exedexes.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/exedexes.c
+END
+subs.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/subs.c
+END
+mhavoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mhavoc.c
+END
+mediagx.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mediagx.c
+END
+eprom.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/eprom.c
+END
+ajax.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ajax.c
+END
+skimaxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skimaxx.c
+END
+paradise.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/paradise.c
+END
+hexion.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hexion.c
+END
+balsente.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/balsente.c
+END
+galpani3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galpani3.c
+END
+carpolo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/carpolo.c
+END
+vroulet.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vroulet.c
+END
+itgambl2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/itgambl2.c
+END
+exterm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/exterm.c
+END
+fitfight.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fitfight.c
+END
+hitme.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hitme.c
+END
+terracre.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/terracre.c
+END
+bzone.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bzone.c
+END
+flkatck.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/flkatck.c
+END
+drw80pkr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/drw80pkr.c
+END
+bestleag.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bestleag.c
+END
+shangkid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shangkid.c
+END
+m10.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m10.c
+END
+fastfred.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fastfred.c
+END
+xtheball.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xtheball.c
+END
+maxaflex.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/maxaflex.c
+END
+punchout.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/punchout.c
+END
+vertigo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vertigo.c
+END
+midzeus.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/midzeus.c
+END
+xorworld.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xorworld.c
+END
+cclimber.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cclimber.c
+END
+superdq.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/superdq.c
+END
+norautp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/norautp.c
+END
+sauro.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sauro.c
+END
+quizo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/quizo.c
+END
+kopunch.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kopunch.c
+END
+mouser.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mouser.c
+END
+ddenlovr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ddenlovr.c
+END
+witch.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/witch.c
+END
+segaybd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segaybd.c
+END
+chinagat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/chinagat.c
+END
+kaneko16.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kaneko16.c
+END
+namcos10.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos10.c
+END
+cybertnk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cybertnk.c
+END
+dynax.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dynax.c
+END
+gauntlet.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gauntlet.c
+END
+darkseal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/darkseal.c
+END
+gaiden.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gaiden.c
+END
+astrof.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/astrof.c
+END
+redalert.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/redalert.c
+END
+pipeline.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pipeline.c
+END
+skyraid.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skyraid.c
+END
+stadhero.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/stadhero.c
+END
+jedi.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jedi.c
+END
+88games.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/88games.c
+END
+wwfsstar.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wwfsstar.c
+END
+lkage.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lkage.c
+END
+koikoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/koikoi.c
+END
+mw8080bw.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mw8080bw.c
+END
+armedf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/armedf.c
+END
+vaportra.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vaportra.c
+END
+namcos86.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos86.c
+END
+chanbara.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/chanbara.c
+END
+vegas.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vegas.c
+END
+nova2001.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nova2001.c
+END
+tecmo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tecmo.c
+END
+jantotsu.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jantotsu.c
+END
+shuuz.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shuuz.c
+END
+avalnche.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/avalnche.c
+END
+gaelco3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gaelco3d.c
+END
+taito_b.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_b.c
+END
+kungfur.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kungfur.c
+END
+gstriker.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gstriker.c
+END
+ilpag.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ilpag.c
+END
+highvdeo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/highvdeo.c
+END
+namconb1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namconb1.c
+END
+dkong.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dkong.c
+END
+strnskil.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/strnskil.c
+END
+chsuper.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/chsuper.c
+END
+news.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/news.c
+END
+mermaid.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mermaid.c
+END
+model1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/model1.c
+END
+photon2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/photon2.c
+END
+sshangha.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sshangha.c
+END
+taxidrvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taxidrvr.c
+END
+compgolf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/compgolf.c
+END
+othello.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/othello.c
+END
+pengo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pengo.c
+END
+scobra.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/scobra.c
+END
+drtomy.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/drtomy.c
+END
+hyperspt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hyperspt.c
+END
+hnayayoi.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hnayayoi.c
+END
+amaticmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/amaticmg.c
+END
+shanghai.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shanghai.c
+END
+wc90.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wc90.c
+END
+jpmimpct.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jpmimpct.c
+END
+namcos12.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos12.c
+END
+itech8.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/itech8.c
+END
+ms32.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ms32.c
+END
+tank8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tank8.c
+END
+mpu4.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mpu4.c
+END
+scramble.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/scramble.c
+END
+gstream.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gstream.c
+END
+4enraya.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/4enraya.c
+END
+liberatr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/liberatr.c
+END
+tehkanwc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tehkanwc.c
+END
+mcr3.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mcr3.c
+END
+sfkick.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sfkick.c
+END
+pushman.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pushman.c
+END
+4roses.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/4roses.c
+END
+sangho.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sangho.c
+END
+dynadice.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dynadice.c
+END
+ampoker2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ampoker2.c
+END
+playmark.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/playmark.c
+END
+namcos21.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos21.c
+END
+gameplan.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gameplan.c
+END
+itgamble.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/itgamble.c
+END
+ssingles.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ssingles.c
+END
+cbasebal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cbasebal.c
+END
+beathead.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/beathead.c
+END
+sbasketb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sbasketb.c
+END
+leland.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/leland.c
+END
+pitnrun.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pitnrun.c
+END
+ksayakyu.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ksayakyu.c
+END
+suprgolf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/suprgolf.c
+END
+himesiki.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/himesiki.c
+END
+konamigq.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/konamigq.c
+END
+bionicc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bionicc.c
+END
+citycon.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/citycon.c
+END
+dgpix.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dgpix.c
+END
+espial.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/espial.c
+END
+tiamc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tiamc1.c
+END
+toaplan2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/toaplan2.c
+END
+mjkjidai.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mjkjidai.c
+END
+jailbrek.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jailbrek.c
+END
+dcon.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dcon.c
+END
+capbowl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/capbowl.c
+END
+mogura.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mogura.c
+END
+wecleman.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wecleman.c
+END
+kyugo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kyugo.c
+END
+crbaloon.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/crbaloon.c
+END
+skyarmy.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skyarmy.c
+END
+m14.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m14.c
+END
+battlex.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/battlex.c
+END
+portrait.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/portrait.c
+END
+vpoker.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vpoker.c
+END
+f-32.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/f-32.c
+END
+funkybee.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/funkybee.c
+END
+3super8.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/3super8.c
+END
+igs009.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/igs009.c
+END
+lastduel.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lastduel.c
+END
+psikyo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/psikyo.c
+END
+starfire.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/starfire.c
+END
+mcatadv.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mcatadv.c
+END
+cinemat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cinemat.c
+END
+model3.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/model3.c
+END
+cischeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cischeat.c
+END
+freekick.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/freekick.c
+END
+redclash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/redclash.c
+END
+cb2001.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cb2001.c
+END
+speglsht.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/speglsht.c
+END
+centiped.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/centiped.c
+END
+magicfly.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/magicfly.c
+END
+snk.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/snk.c
+END
+dmndrby.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dmndrby.c
+END
+sliver.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sliver.c
+END
+welltris.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/welltris.c
+END
+mrflea.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mrflea.c
+END
+munchmo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/munchmo.c
+END
+cps2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cps2.c
+END
+getrivia.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/getrivia.c
+END
+taitoair.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taitoair.c
+END
+drgnmst.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/drgnmst.c
+END
+esd16.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/esd16.c
+END
+aquarium.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aquarium.c
+END
+vicdual.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vicdual.c
+END
+angelkds.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/angelkds.c
+END
+jrpacman.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jrpacman.c
+END
+mole.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mole.c
+END
+nightgal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nightgal.c
+END
+maygayv1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/maygayv1.c
+END
+namcond1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcond1.c
+END
+xexex.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xexex.c
+END
+wallc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wallc.c
+END
+glass.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/glass.c
+END
+surpratk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/surpratk.c
+END
+zaccaria.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/zaccaria.c
+END
+speedbal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/speedbal.c
+END
+attckufo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/attckufo.c
+END
+tceptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tceptor.c
+END
+littlerb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/littlerb.c
+END
+jchan.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jchan.c
+END
+namcos23.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos23.c
+END
+ikki.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ikki.c
+END
+bankp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bankp.c
+END
+hshavoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hshavoc.c
+END
+commando.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/commando.c
+END
+atarisy2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atarisy2.c
+END
+mjsister.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mjsister.c
+END
+yunsung8.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/yunsung8.c
+END
+ninjakd2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ninjakd2.c
+END
+skydiver.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skydiver.c
+END
+warpwarp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/warpwarp.c
+END
+wheelfir.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wheelfir.c
+END
+janshi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/janshi.c
+END
+pcxt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pcxt.c
+END
+jongkyo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jongkyo.c
+END
+nbmj8891.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nbmj8891.c
+END
+tagteam.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tagteam.c
+END
+pgm.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pgm.c
+END
+chihiro.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/chihiro.c
+END
+holeland.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/holeland.c
+END
+liberate.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/liberate.c
+END
+gunsmoke.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gunsmoke.c
+END
+laserbat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/laserbat.c
+END
+qix.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/qix.c
+END
+spacefb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spacefb.c
+END
+adp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/adp.c
+END
+opwolf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/opwolf.c
+END
+pturn.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pturn.c
+END
+cheekyms.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cheekyms.c
+END
+gumbo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gumbo.c
+END
+ssgbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ssgbl.c
+END
+asteroid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/asteroid.c
+END
+suna16.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/suna16.c
+END
+megatech.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/megatech.c
+END
+cmmb.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cmmb.c
+END
+roul.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/roul.c
+END
+cop01.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cop01.c
+END
+hikaru.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hikaru.c
+END
+timelimt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/timelimt.c
+END
+bagman.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bagman.c
+END
+champbwl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/champbwl.c
+END
+mikie.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mikie.c
+END
+vamphalf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vamphalf.c
+END
+poolshrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/poolshrk.c
+END
+bloodbro.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bloodbro.c
+END
+fromanc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fromanc2.c
+END
+diverboy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/diverboy.c
+END
+carjmbre.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/carjmbre.c
+END
+gal3.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gal3.c
+END
+superchs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/superchs.c
+END
+wgp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wgp.c
+END
+battlera.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/battlera.c
+END
+gundealr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gundealr.c
+END
+batman.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/batman.c
+END
+galaxia.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galaxia.c
+END
+magmax.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/magmax.c
+END
+junofrst.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/junofrst.c
+END
+renegade.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/renegade.c
+END
+gridlee.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gridlee.c
+END
+bnstars.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bnstars.c
+END
+n8080.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/n8080.c
+END
+realbrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/realbrk.c
+END
+arcadia.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/arcadia.c
+END
+nbmj8688.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nbmj8688.c
+END
+hitpoker.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hitpoker.c
+END
+jackie.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jackie.c
+END
+ginganin.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ginganin.c
+END
+turbo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/turbo.c
+END
+tail2nos.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tail2nos.c
+END
+goal92.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/goal92.c
+END
+slapshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/slapshot.c
+END
+ertictac.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ertictac.c
+END
+koftball.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/koftball.c
+END
+rohga.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rohga.c
+END
+namcos1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos1.c
+END
+galdrvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galdrvr.c
+END
+firefox.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/firefox.c
+END
+mainevt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mainevt.c
+END
+deco156.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/deco156.c
+END
+vigilant.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vigilant.c
+END
+nbmj8991.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nbmj8991.c
+END
+deshoros.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/deshoros.c
+END
+taito_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_h.c
+END
+igs_m027.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/igs_m027.c
+END
+gatron.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gatron.c
+END
+seta.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/seta.c
+END
+tp84.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tp84.c
+END
+victory.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/victory.c
+END
+midwunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/midwunit.c
+END
+lucky74.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lucky74.c
+END
+wardner.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wardner.c
+END
+m52.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m52.c
+END
+missile.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/missile.c
+END
+ddrible.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ddrible.c
+END
+tecmosys.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tecmosys.c
+END
+40love.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/40love.c
+END
+polyplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/polyplay.c
+END
+exidy440.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/exidy440.c
+END
+gng.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gng.c
+END
+galaga.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galaga.c
+END
+panicr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/panicr.c
+END
+unico.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/unico.c
+END
+taitosj.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taitosj.c
+END
+topshoot.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/topshoot.c
+END
+dassault.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dassault.c
+END
+galivan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galivan.c
+END
+dambustr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dambustr.c
+END
+8080bw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/8080bw.c
+END
+supbtime.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/supbtime.c
+END
+ggconnie.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ggconnie.c
+END
+segamsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segamsys.c
+END
+blmbycar.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blmbycar.c
+END
+toratora.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/toratora.c
+END
+quasar.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/quasar.c
+END
+xyonix.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xyonix.c
+END
+gbusters.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gbusters.c
+END
+1942.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/1942.c
+END
+megaplay.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/megaplay.c
+END
+segamsys.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segamsys.h
+END
+bogeyman.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bogeyman.c
+END
+mirage.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mirage.c
+END
+popper.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/popper.c
+END
+route16.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/route16.c
+END
+pokechmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pokechmp.c
+END
+snk6502.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/snk6502.c
+END
+dietgo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dietgo.c
+END
+stv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/stv.c
+END
+lasso.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lasso.c
+END
+rmhaihai.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rmhaihai.c
+END
+topspeed.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/topspeed.c
+END
+tatsumi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tatsumi.c
+END
+fantland.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fantland.c
+END
+jalmah.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jalmah.c
+END
+legionna.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/legionna.c
+END
+aristmk4.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aristmk4.c
+END
+xain.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xain.c
+END
+mrdo.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mrdo.c
+END
+thunderx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/thunderx.c
+END
+r2dtank.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/r2dtank.c
+END
+toki.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/toki.c
+END
+djboy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/djboy.c
+END
+videopin.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/videopin.c
+END
+mastboy.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mastboy.c
+END
+amspdwy.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/amspdwy.c
+END
+murogmbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/murogmbl.c
+END
+atarig1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atarig1.c
+END
+sothello.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sothello.c
+END
+spoker.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spoker.c
+END
+olibochu.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/olibochu.c
+END
+ultratnk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ultratnk.c
+END
+jack.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jack.c
+END
+kingdrby.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kingdrby.c
+END
+lastfght.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lastfght.c
+END
+merit.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/merit.c
+END
+superqix.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/superqix.c
+END
+gotya.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gotya.c
+END
+cyberbal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cyberbal.c
+END
+runaway.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/runaway.c
+END
+tumbleb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tumbleb.c
+END
+bwidow.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bwidow.c
+END
+taitotz.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taitotz.c
+END
+tigeroad.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tigeroad.c
+END
+micro3d.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/micro3d.c
+END
+cabaret.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cabaret.c
+END
+srmp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/srmp2.c
+END
+gsword.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gsword.c
+END
+tugboat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tugboat.c
+END
+slapfght.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/slapfght.c
+END
+badlands.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/badlands.c
+END
+1945kiii.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/1945kiii.c
+END
+lethal.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lethal.c
+END
+snk68.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/snk68.c
+END
+psikyosh.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/psikyosh.c
+END
+astinvad.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/astinvad.c
+END
+phoenix.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/phoenix.c
+END
+boogwing.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/boogwing.c
+END
+supertnk.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/supertnk.c
+END
+embargo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/embargo.c
+END
+mirderby.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mirderby.c
+END
+offtwall.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/offtwall.c
+END
+markham.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/markham.c
+END
+zr107.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/zr107.c
+END
+eolithsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/eolithsp.c
+END
+fromance.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fromance.c
+END
+re900.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/re900.c
+END
+mcr68.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mcr68.c
+END
+m63.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m63.c
+END
+mario.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mario.c
+END
+looping.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/looping.c
+END
+segas32.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segas32.c
+END
+mustache.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mustache.c
+END
+segas16a.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segas16a.c
+END
+quizdna.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/quizdna.c
+END
+snookr10.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/snookr10.c
+END
+segahang.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segahang.c
+END
+statriv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/statriv2.c
+END
+neodrvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/neodrvr.c
+END
+ultraman.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ultraman.c
+END
+rastan.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rastan.c
+END
+blueprnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blueprnt.c
+END
+halleys.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/halleys.c
+END
+buggychl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/buggychl.c
+END
+m72.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m72.c
+END
+starshp1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/starshp1.c
+END
+pandoras.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pandoras.c
+END
+taito_f2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_f2.c
+END
+namcoic.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcoic.c
+END
+gottlieb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gottlieb.c
+END
+psattack.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/psattack.c
+END
+carrera.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/carrera.c
+END
+acommand.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/acommand.c
+END
+goldnpkr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/goldnpkr.c
+END
+ppmast93.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ppmast93.c
+END
+cojag.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cojag.c
+END
+xxmissio.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xxmissio.c
+END
+mappy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mappy.c
+END
+ladybug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ladybug.c
+END
+eolith16.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/eolith16.c
+END
+groundfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/groundfx.c
+END
+uapce.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/uapce.c
+END
+irobot.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/irobot.c
+END
+ttchamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ttchamp.c
+END
+stvinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/stvinit.c
+END
+gomoku.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gomoku.c
+END
+suprloco.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/suprloco.c
+END
+peplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/peplus.c
+END
+destroyr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/destroyr.c
+END
+wwfwfest.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wwfwfest.c
+END
+feversoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/feversoc.c
+END
+ddragon.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ddragon.c
+END
+asterix.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/asterix.c
+END
+multigam.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/multigam.c
+END
+mirax.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mirax.c
+END
+dday.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dday.c
+END
+fuukifg2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fuukifg2.c
+END
+dlair.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dlair.c
+END
+taito_l.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_l.c
+END
+shangha3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shangha3.c
+END
+segac2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segac2.c
+END
+m90.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m90.c
+END
+fortecar.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fortecar.c
+END
+gberet.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gberet.c
+END
+fcombat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fcombat.c
+END
+baraduke.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/baraduke.c
+END
+matmania.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/matmania.c
+END
+vcombat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vcombat.c
+END
+gyruss.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gyruss.c
+END
+clshroad.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/clshroad.c
+END
+pkscram.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pkscram.c
+END
+thoop2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/thoop2.c
+END
+sengokmj.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sengokmj.c
+END
+lsasquad.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lsasquad.c
+END
+tubep.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tubep.c
+END
+esh.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/esh.c
+END
+beaminv.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/beaminv.c
+END
+nwk-tr.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nwk-tr.c
+END
+exidy.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/exidy.c
+END
+hng64.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hng64.c
+END
+circus.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/circus.c
+END
+tourtabl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tourtabl.c
+END
+trvmadns.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/trvmadns.c
+END
+dcheese.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dcheese.c
+END
+cabal.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cabal.c
+END
+changela.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/changela.c
+END
+sstrangr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sstrangr.c
+END
+chqflag.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/chqflag.c
+END
+relief.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/relief.c
+END
+backfire.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/backfire.c
+END
+sidepckt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sidepckt.c
+END
+starwars.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/starwars.c
+END
+ltcasino.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ltcasino.c
+END
+meijinsn.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/meijinsn.c
+END
+coolridr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/coolridr.c
+END
+dooyong.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dooyong.c
+END
+brkthru.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/brkthru.c
+END
+ninjaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ninjaw.c
+END
+twin16.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/twin16.c
+END
+tutankhm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tutankhm.c
+END
+nitedrvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nitedrvr.c
+END
+pacman.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pacman.c
+END
+intrscti.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/intrscti.c
+END
+galspnbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galspnbl.c
+END
+cubeqst.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cubeqst.c
+END
+exerion.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/exerion.c
+END
+segas18.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segas18.c
+END
+photoply.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/photoply.c
+END
+madmotor.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/madmotor.c
+END
+cshooter.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cshooter.c
+END
+rocnrope.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rocnrope.c
+END
+moo.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/moo.c
+END
+targeth.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/targeth.c
+END
+ultrsprt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ultrsprt.c
+END
+rainbow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rainbow.c
+END
+midyunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/midyunit.c
+END
+rabbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rabbit.c
+END
+tunhunt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tunhunt.c
+END
+pooyan.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pooyan.c
+END
+bwing.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bwing.c
+END
+srmp6.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/srmp6.c
+END
+tokyocop.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tokyocop.c
+END
+m92.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m92.c
+END
+m58.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m58.c
+END
+maygay1b.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/maygay1b.c
+END
+wrally.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wrally.c
+END
+cball.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cball.c
+END
+guab.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/guab.c
+END
+sfbonus.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sfbonus.c
+END
+simpl156.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/simpl156.c
+END
+tempest.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tempest.c
+END
+crystal.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/crystal.c
+END
+chinsan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/chinsan.c
+END
+mquake.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mquake.c
+END
+cliffhgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cliffhgr.c
+END
+tbowl.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tbowl.c
+END
+twincobr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/twincobr.c
+END
+artmagic.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/artmagic.c
+END
+aerofgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aerofgt.c
+END
+shisen.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shisen.c
+END
+multfish.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/multfish.c
+END
+battlnts.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/battlnts.c
+END
+quakeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/quakeat.c
+END
+galpani2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galpani2.c
+END
+asuka.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/asuka.c
+END
+dragrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dragrace.c
+END
+twinkle.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/twinkle.c
+END
+spool99.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spool99.c
+END
+pasha2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pasha2.c
+END
+mcr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mcr.c
+END
+seibuspi.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/seibuspi.c
+END
+deadang.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/deadang.c
+END
+skyfox.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skyfox.c
+END
+coolpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/coolpool.c
+END
+rbmk.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rbmk.c
+END
+nmk16.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nmk16.c
+END
+midtunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/midtunit.c
+END
+sprint2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sprint2.c
+END
+86lions.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/86lions.c
+END
+mgolf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mgolf.c
+END
+niyanpai.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/niyanpai.c
+END
+suprnova.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/suprnova.c
+END
+sonson.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sonson.c
+END
+luckgrln.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/luckgrln.c
+END
+shootout.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shootout.c
+END
+fgoal.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fgoal.c
+END
+dribling.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dribling.c
+END
+timetrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/timetrv.c
+END
+megadriv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/megadriv.c
+END
+shougi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shougi.c
+END
+drmicro.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/drmicro.c
+END
+hornet.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hornet.c
+END
+mexico86.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mexico86.c
+END
+megadriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/megadriv.h
+END
+calchase.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/calchase.c
+END
+chaknpop.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/chaknpop.c
+END
+system1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/system1.c
+END
+ashnojoe.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ashnojoe.c
+END
+sf.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sf.c
+END
+minivadr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/minivadr.c
+END
+yiear.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/yiear.c
+END
+bfm_sc2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bfm_sc2.c
+END
+tmmjprd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tmmjprd.c
+END
+undrfire.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/undrfire.c
+END
+namcofl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcofl.c
+END
+ambush.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ambush.c
+END
+sslam.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sslam.c
+END
+goodejan.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/goodejan.c
+END
+volfied.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/volfied.c
+END
+trackfld.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/trackfld.c
+END
+bking.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bking.c
+END
+gaplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gaplus.c
+END
+thief.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/thief.c
+END
+itech32.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/itech32.c
+END
+sspeedr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sspeedr.c
+END
+findout.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/findout.c
+END
+galpanic.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galpanic.c
+END
+finalizr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/finalizr.c
+END
+orbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/orbit.c
+END
+speedspn.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/speedspn.c
+END
+grchamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/grchamp.c
+END
+igspoker.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/igspoker.c
+END
+segaorun.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segaorun.c
+END
+videopkr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/videopkr.c
+END
+contra.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/contra.c
+END
+mwarr.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mwarr.c
+END
+aleck64.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aleck64.c
+END
+mazerbla.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mazerbla.c
+END
+namcona1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcona1.c
+END
+bsktball.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bsktball.c
+END
+itgambl3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/itgambl3.c
+END
+acefruit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/acefruit.c
+END
+twins.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/twins.c
+END
+travrusa.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/travrusa.c
+END
+metlclsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/metlclsh.c
+END
+magictg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/magictg.c
+END
+seta2.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/seta2.c
+END
+goldstar.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/goldstar.c
+END
+malzak.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/malzak.c
+END
+deco32.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/deco32.c
+END
+enigma2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/enigma2.c
+END
+lgp.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lgp.c
+END
+cowrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cowrace.c
+END
+mil4000.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mil4000.c
+END
+zaxxon.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/zaxxon.c
+END
+tomcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tomcat.c
+END
+20pacgal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/20pacgal.c
+END
+gticlub.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gticlub.c
+END
+seicross.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/seicross.c
+END
+system16.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/system16.c
+END
+karnov.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/karnov.c
+END
+sprint4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sprint4.c
+END
+lwings.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lwings.c
+END
+appoooh.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/appoooh.c
+END
+simpsons.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/simpsons.c
+END
+prehisle.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/prehisle.c
+END
+actfancr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/actfancr.c
+END
+argus.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/argus.c
+END
+skylncr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skylncr.c
+END
+paranoia.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/paranoia.c
+END
+spbactn.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spbactn.c
+END
+limenko.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/limenko.c
+END
+forte2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/forte2.c
+END
+starcrus.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/starcrus.c
+END
+yunsun16.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/yunsun16.c
+END
+aliens.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aliens.c
+END
+beezer.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/beezer.c
+END
+stactics.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/stactics.c
+END
+polepos.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/polepos.c
+END
+namcos11.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos11.c
+END
+kickgoal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kickgoal.c
+END
+galaxian.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galaxian.c
+END
+othldrby.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/othldrby.c
+END
+bbusters.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bbusters.c
+END
+cloak.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cloak.c
+END
+hyprduel.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hyprduel.c
+END
+foodf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/foodf.c
+END
+deniam.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/deniam.c
+END
+arcadecl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/arcadecl.c
+END
+qdrmfgp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/qdrmfgp.c
+END
+suprslam.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/suprslam.c
+END
+calomega.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/calomega.c
+END
+calorie.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/calorie.c
+END
+aladbl.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aladbl.c
+END
+shaolins.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shaolins.c
+END
+lethalj.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lethalj.c
+END
+pachifev.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pachifev.c
+END
+hexa.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hexa.c
+END
+jackal.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jackal.c
+END
+zn.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/zn.c
+END
+pcat_nit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pcat_nit.c
+END
+lazercmd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lazercmd.c
+END
+flstory.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/flstory.c
+END
+big10.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/big10.c
+END
+blockade.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blockade.c
+END
+zerozone.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/zerozone.c
+END
+lemmings.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lemmings.c
+END
+atetris.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atetris.c
+END
+toaplan1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/toaplan1.c
+END
+segag80r.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segag80r.c
+END
+bmcbowl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bmcbowl.c
+END
+viper.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/viper.c
+END
+nyny.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nyny.c
+END
+suna8.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/suna8.c
+END
+btime.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/btime.c
+END
+fcrash.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fcrash.c
+END
+vp101.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vp101.c
+END
+suprridr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/suprridr.c
+END
+lordgun.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lordgun.c
+END
+cosmic.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cosmic.c
+END
+dbz.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dbz.c
+END
+dacholer.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dacholer.c
+END
+magic10.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/magic10.c
+END
+model2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/model2.c
+END
+raiden2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/raiden2.c
+END
+zodiack.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/zodiack.c
+END
+taitojc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taitojc.c
+END
+wiping.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wiping.c
+END
+funkyjet.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/funkyjet.c
+END
+ddealer.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ddealer.c
+END
+popeye.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/popeye.c
+END
+marinedt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/marinedt.c
+END
+skullxbo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skullxbo.c
+END
+ironhors.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ironhors.c
+END
+berzerk.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/berzerk.c
+END
+cps1.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cps1.c
+END
+igs017.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/igs017.c
+END
+iqblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/iqblock.c
+END
+ataxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ataxx.c
+END
+mpu5.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mpu5.c
+END
+mlanding.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mlanding.c
+END
+tankbust.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tankbust.c
+END
+missb2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/missb2.c
+END
+photon.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/photon.c
+END
+spiders.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spiders.c
+END
+wiz.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wiz.c
+END
+galastrm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galastrm.c
+END
+tetrisp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tetrisp2.c
+END
+alpha68k.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/alpha68k.c
+END
+subsino.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/subsino.c
+END
+jangou.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jangou.c
+END
+namcos22.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos22.c
+END
+darius.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/darius.c
+END
+galaxold.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galaxold.c
+END
+atarisy1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atarisy1.c
+END
+mpoker.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mpoker.c
+END
+st0016.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/st0016.c
+END
+cchasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cchasm.c
+END
+pastelg.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pastelg.c
+END
+seattle.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/seattle.c
+END
+atarig42.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atarig42.c
+END
+tmaster.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tmaster.c
+END
+vindictr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vindictr.c
+END
+tmnt.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tmnt.c
+END
+hanaawas.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hanaawas.c
+END
+mpu4drvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mpu4drvr.c
+END
+flyball.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/flyball.c
+END
+kinst.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kinst.c
+END
+gaelco.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gaelco.c
+END
+laserbas.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/laserbas.c
+END
+midvunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/midvunit.c
+END
+sprint8.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sprint8.c
+END
+snesb.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/snesb.c
+END
+btoads.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/btoads.c
+END
+taitopjc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taitopjc.c
+END
+pangofun.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pangofun.c
+END
+shadfrce.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/shadfrce.c
+END
+clayshoo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/clayshoo.c
+END
+firebeat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/firebeat.c
+END
+bigevglf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bigevglf.c
+END
+xybots.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xybots.c
+END
+circusc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/circusc.c
+END
+kingpin.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kingpin.c
+END
+cubocd32.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cubocd32.c
+END
+usgames.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/usgames.c
+END
+epos.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/epos.c
+END
+cps3.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cps3.c
+END
+dunhuang.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dunhuang.c
+END
+scregg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/scregg.c
+END
+spy.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spy.c
+END
+ojankohs.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ojankohs.c
+END
+boxer.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/boxer.c
+END
+inufuku.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/inufuku.c
+END
+spdodgeb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spdodgeb.c
+END
+tattack.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tattack.c
+END
+trvquest.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/trvquest.c
+END
+higemaru.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/higemaru.c
+END
+plygonet.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/plygonet.c
+END
+cbuster.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cbuster.c
+END
+ghosteo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ghosteo.c
+END
+powerbal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/powerbal.c
+END
+ddz.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ddz.c
+END
+eolith.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/eolith.c
+END
+kncljoe.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kncljoe.c
+END
+metro.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/metro.c
+END
+warriorb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/warriorb.c
+END
+deco_ld.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/deco_ld.c
+END
+igs_blit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/igs_blit.c
+END
+nemesis.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nemesis.c
+END
+bombjack.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bombjack.c
+END
+progolf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/progolf.c
+END
+dec0.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dec0.c
+END
+onetwo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/onetwo.c
+END
+gcpinbal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gcpinbal.c
+END
+blackt96.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blackt96.c
+END
+tcl.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tcl.c
+END
+segag80v.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segag80v.c
+END
+ssf2md.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ssf2md.c
+END
+dreamwld.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dreamwld.c
+END
+astrocde.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/astrocde.c
+END
+megazone.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/megazone.c
+END
+trucocl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/trucocl.c
+END
+ssv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ssv.c
+END
+igs_m68.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/igs_m68.c
+END
+blockhl.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blockhl.c
+END
+istellar.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/istellar.c
+END
+sbowling.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sbowling.c
+END
+wc90b.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wc90b.c
+END
+psychic5.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/psychic5.c
+END
+othunder.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/othunder.c
+END
+truco.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/truco.c
+END
+bottom9.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bottom9.c
+END
+vball.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vball.c
+END
+mayumi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mayumi.c
+END
+raiden.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/raiden.c
+END
+rollrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rollrace.c
+END
+naomi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/naomi.c
+END
+vegaeo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vegaeo.c
+END
+sidearms.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sidearms.c
+END
+ladyfrog.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ladyfrog.c
+END
+sg1000a.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sg1000a.c
+END
+rallyx.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rallyx.c
+END
+queen.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/queen.c
+END
+kingobox.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kingobox.c
+END
+bfmsys85.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bfmsys85.c
+END
+esripsys.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/esripsys.c
+END
+blockout.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blockout.c
+END
+tsamurai.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tsamurai.c
+END
+ettrivia.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ettrivia.c
+END
+vmetal.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vmetal.c
+END
+supdrapo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/supdrapo.c
+END
+tnzs.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tnzs.c
+END
+bishi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bishi.c
+END
+flower.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/flower.c
+END
+psikyo4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/psikyo4.c
+END
+pacland.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pacland.c
+END
+taito_x.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_x.c
+END
+dwarfd.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dwarfd.c
+END
+tumblep.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tumblep.c
+END
+pingpong.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pingpong.c
+END
+blstroid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/blstroid.c
+END
+caswin.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/caswin.c
+END
+cvs.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cvs.c
+END
+retofinv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/retofinv.c
+END
+mrjong.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mrjong.c
+END
+m79amb.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m79amb.c
+END
+meritm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/meritm.c
+END
+lvcards.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lvcards.c
+END
+dotrikun.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dotrikun.c
+END
+namcos2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/namcos2.c
+END
+cninja.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cninja.c
+END
+harddriv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/harddriv.c
+END
+go2000.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/go2000.c
+END
+madalien.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/madalien.c
+END
+aeroboto.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aeroboto.c
+END
+exzisus.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/exzisus.c
+END
+dogfgt.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dogfgt.c
+END
+konamigv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/konamigv.c
+END
+firetrap.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/firetrap.c
+END
+thayers.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/thayers.c
+END
+stlforce.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/stlforce.c
+END
+cchance.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cchance.c
+END
+aztarac.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aztarac.c
+END
+canyon.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/canyon.c
+END
+bladestl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bladestl.c
+END
+splash.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/splash.c
+END
+srumbler.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/srumbler.c
+END
+vsnes.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vsnes.c
+END
+pbaction.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pbaction.c
+END
+meadows.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/meadows.c
+END
+overdriv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/overdriv.c
+END
+funworld.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/funworld.c
+END
+jackpool.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jackpool.c
+END
+alg.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/alg.c
+END
+spcforce.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spcforce.c
+END
+buster.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/buster.c
+END
+ohmygod.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ohmygod.c
+END
+pass.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pass.c
+END
+silkroad.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/silkroad.c
+END
+exprraid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/exprraid.c
+END
+thedeep.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/thedeep.c
+END
+oneshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/oneshot.c
+END
+2mindril.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/2mindril.c
+END
+naughtyb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/naughtyb.c
+END
+macs.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/macs.c
+END
+dominob.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dominob.c
+END
+ksys573.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ksys573.c
+END
+good.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/good.c
+END
+ace.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ace.c
+END
+taitowlf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taitowlf.c
+END
+sbrkout.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sbrkout.c
+END
+1943.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/1943.c
+END
+m62.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/m62.c
+END
+atarifb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atarifb.c
+END
+scotrsht.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/scotrsht.c
+END
+gunbustr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gunbustr.c
+END
+crgolf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/crgolf.c
+END
+tecmo16.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tecmo16.c
+END
+playch10.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/playch10.c
+END
+pzletime.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pzletime.c
+END
+pntnpuzl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pntnpuzl.c
+END
+toobin.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/toobin.c
+END
+albazc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/albazc.c
+END
+f1gp.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/f1gp.c
+END
+aristmk5.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/aristmk5.c
+END
+nss.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nss.c
+END
+taitogn.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taitogn.c
+END
+galaxi.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/galaxi.c
+END
+taito_z.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_z.c
+END
+darkhors.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/darkhors.c
+END
+msisaac.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/msisaac.c
+END
+cardline.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cardline.c
+END
+gradius3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gradius3.c
+END
+ssrj.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ssrj.c
+END
+omegrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/omegrace.c
+END
+decocass.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/decocass.c
+END
+segae.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segae.c
+END
+safarir.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/safarir.c
+END
+mystwarr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mystwarr.c
+END
+toypop.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/toypop.c
+END
+jollyjgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jollyjgr.c
+END
+midas.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/midas.c
+END
+quizpani.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/quizpani.c
+END
+momoko.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/momoko.c
+END
+kchamp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kchamp.c
+END
+tx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tx1.c
+END
+sprcros2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sprcros2.c
+END
+konamigx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/konamigx.c
+END
+triforce.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/triforce.c
+END
+upscope.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/upscope.c
+END
+bishjan.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bishjan.c
+END
+dorachan.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/dorachan.c
+END
+equites.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/equites.c
+END
+thunderj.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/thunderj.c
+END
+lockon.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/lockon.c
+END
+parodius.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/parodius.c
+END
+combatsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/combatsc.c
+END
+rockrage.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rockrage.c
+END
+quizpun2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/quizpun2.c
+END
+midxunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/midxunit.c
+END
+sms.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sms.c
+END
+spaceg.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/spaceg.c
+END
+ssfindo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ssfindo.c
+END
+firetrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/firetrk.c
+END
+nmg5.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/nmg5.c
+END
+bigstrkb.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bigstrkb.c
+END
+xmen.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/xmen.c
+END
+segas24.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segas24.c
+END
+wink.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wink.c
+END
+ddayjlc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ddayjlc.c
+END
+sandscrp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sandscrp.c
+END
+homedata.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/homedata.c
+END
+mugsmash.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/mugsmash.c
+END
+jokrwild.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jokrwild.c
+END
+macrossp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/macrossp.c
+END
+gladiatr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gladiatr.c
+END
+puckpkmn.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/puckpkmn.c
+END
+stepstag.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/stepstag.c
+END
+quantum.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/quantum.c
+END
+fastlane.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fastlane.c
+END
+gijoe.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gijoe.c
+END
+skykid.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/skykid.c
+END
+gamecstl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gamecstl.c
+END
+tarzan.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tarzan.c
+END
+wldarrow.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/wldarrow.c
+END
+kangaroo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/kangaroo.c
+END
+egghunt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/egghunt.c
+END
+djmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/djmain.c
+END
+hotblock.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hotblock.c
+END
+stfight.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/stfight.c
+END
+vendetta.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vendetta.c
+END
+segas16b.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segas16b.c
+END
+neogeo.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/neogeo.c
+END
+pktgaldx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pktgaldx.c
+END
+gpworld.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gpworld.c
+END
+atarigx2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/atarigx2.c
+END
+pcktgal.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/pcktgal.c
+END
+solomon.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/solomon.c
+END
+imolagp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/imolagp.c
+END
+goindol.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/goindol.c
+END
+taotaido.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taotaido.c
+END
+cidelsa.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/cidelsa.c
+END
+gotcha.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gotcha.c
+END
+taito_f3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/taito_f3.c
+END
+turrett.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/turrett.c
+END
+marineb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/marineb.c
+END
+champbas.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/champbas.c
+END
+timeplt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/timeplt.c
+END
+arkanoid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/arkanoid.c
+END
+megasys1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/megasys1.c
+END
+crshrace.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/crshrace.c
+END
+zac2650.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/zac2650.c
+END
+airbustr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/airbustr.c
+END
+klax.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/klax.c
+END
+segald.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/segald.c
+END
+tickee.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/tickee.c
+END
+jpmsys5.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/jpmsys5.c
+END
+gaelco2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/gaelco2.c
+END
+astrocorp.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/astrocorp.c
+END
+konamim2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/konamim2.c
+END
+homerun.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/homerun.c
+END
+ssozumo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/ssozumo.c
+END
+comebaby.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/comebaby.c
+END
+williams.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/williams.c
+END
+fuukifg3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/fuukifg3.c
+END
+rcorsair.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/rcorsair.c
+END
+slotcarn.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/slotcarn.c
+END
+vulgus.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/vulgus.c
+END
+hyhoo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/hyhoo.c
+END
+sderby.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/sderby.c
+END
+battlane.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/battlane.c
+END
+bigfghtr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/drivers/bigfghtr.c
+END

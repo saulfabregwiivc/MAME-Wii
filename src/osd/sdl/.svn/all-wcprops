@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl
+END
+debug.gladep
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug.gladep
+END
+sdlsync_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlsync_win32.c
+END
+draw13.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/draw13.c
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/input.h
+END
+sdlprefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlprefix.h
+END
+sdlsync_tc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlsync_tc.c
+END
+texsrc.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/texsrc.h
+END
+debug.glade
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug.glade
+END
+sdlsync_ntc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlsync_ntc.c
+END
+debug-intf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug-intf.c
+END
+debugosx.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debugosx.h
+END
+debug-intf.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug-intf.h
+END
+debugosx.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debugosx.m
+END
+osdsdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/osdsdl.h
+END
+gl_shader_mgr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/gl_shader_mgr.c
+END
+osd_opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/osd_opengl.h
+END
+strconv.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/strconv.c
+END
+osxutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/osxutils.h
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/output.c
+END
+gl_shader_mgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/gl_shader_mgr.h
+END
+strconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/strconv.h
+END
+osxutils.m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/osxutils.m
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/output.h
+END
+sdlos_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlos_win32.c
+END
+sdlos_os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlos_os2.c
+END
+sdl.mak
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdl.mak
+END
+debug-cb.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug-cb.h
+END
+sdldir.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdldir.c
+END
+sdlos.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlos.h
+END
+debug-sup.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug-sup.c
+END
+README_SDL13.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/README_SDL13.txt
+END
+drawsdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/drawsdl.c
+END
+debug-sup.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug-sup.h
+END
+scale2x.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/scale2x.c
+END
+sdlsync_os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlsync_os2.c
+END
+blit13.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/blit13.h
+END
+debugwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debugwin.c
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/video.c
+END
+window.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/window.c
+END
+debugwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debugwin.h
+END
+testkeys.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/testkeys.c
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/video.h
+END
+window.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/window.h
+END
+sdlsync_sdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlsync_sdl.c
+END
+sdlfile.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlfile.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/main.c
+END
+sdlsync.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlsync.h
+END
+sdlwork.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlwork.c
+END
+build.mak
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/build.mak
+END
+osinline.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/osinline.h
+END
+gl_shader_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/gl_shader_tool.c
+END
+sdlmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlmain.c
+END
+gl_shader_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/gl_shader_tool.h
+END
+sdlos_macosx.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlos_macosx.c
+END
+drawogl.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/drawogl.c
+END
+SDL1211_opengl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/SDL1211_opengl.h
+END
+debug-cb.ign
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/debug-cb.ign
+END
+scale2x_core.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/scale2x_core.c
+END
+dview.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/dview.c
+END
+dview.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/dview.h
+END
+sdlos_unix.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sdlos_unix.c
+END
+sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/sound.c
+END
+SDLMain_tmpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/SDLMain_tmpl.h
+END
+ledutil.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/ledutil.sh
+END
+texcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/texcopy.c
+END
+drawgx.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/drawgx.c
+END
+SDLMain_tmpl.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/SDLMain_tmpl.m
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/input.c
+END

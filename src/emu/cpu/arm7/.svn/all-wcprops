@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/arm7
+END
+arm7dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/arm7/arm7dasm.c
+END
+arm7exec.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/arm7/arm7exec.c
+END
+arm7.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/arm7/arm7.h
+END
+arm7core.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/arm7/arm7core.c
+END
+arm7core.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/arm7/arm7core.h
+END
+arm7.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/arm7/arm7.c
+END

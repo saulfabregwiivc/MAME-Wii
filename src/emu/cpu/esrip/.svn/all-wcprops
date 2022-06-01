@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/esrip
+END
+esrip.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/esrip/esrip.c
+END
+esripdsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/esrip/esripdsm.c
+END
+esrip.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/esrip/esrip.h
+END

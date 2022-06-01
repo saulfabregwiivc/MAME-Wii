@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/19/Release_1.0/src/tools
+END
+jedutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/tools/jedutil.c
+END
+unidasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/tools/unidasm.c
+END
+ldverify.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/tools/ldverify.c
+END
+regrep.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/tools/regrep.c
+END
+chdcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/tools/chdcd.c
+END
+runtest.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/tools/runtest.cmd
+END
+tools.mak
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/tools/tools.mak
+END
+ldresample.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/tools/ldresample.c
+END
+chdman.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/tools/chdman.c
+END
+srcclean.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/tools/srcclean.c
+END
+chdcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/tools/chdcd.h
+END
+split.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/tools/split.c
+END
+romcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/tools/romcmp.c
+END
+src2html.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/tools/src2html.c
+END

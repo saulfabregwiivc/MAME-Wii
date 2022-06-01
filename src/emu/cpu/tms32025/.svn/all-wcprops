@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms32025
+END
+32025dsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms32025/32025dsm.c
+END
+tms32025.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms32025/tms32025.c
+END
+tms32025.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms32025/tms32025.h
+END
+dis32025.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms32025/dis32025.c
+END

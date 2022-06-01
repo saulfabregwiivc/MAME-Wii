@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2
+END
+sh2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2/sh2.c
+END
+sh2comn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2/sh2comn.h
+END
+sh2dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2/sh2dasm.c
+END
+sh2.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2/sh2.h
+END
+sh2drc.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2/sh2drc.c
+END
+sh2fe.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2/sh2fe.c
+END
+sh2comn.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sh2/sh2comn.c
+END

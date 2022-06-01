@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms57002
+END
+57002dsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms57002/57002dsm.c
+END
+tms57002.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms57002/tms57002.c
+END
+tmsmake.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms57002/tmsmake.c
+END
+tmsinstr.lst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms57002/tmsinstr.lst
+END
+tms57002.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms57002/tms57002.h
+END

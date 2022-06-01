@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms0980
+END
+tms0980.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms0980/tms0980.c
+END
+tms0980d.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms0980/tms0980d.c
+END
+tms0980.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/tms0980/tms0980.h
+END

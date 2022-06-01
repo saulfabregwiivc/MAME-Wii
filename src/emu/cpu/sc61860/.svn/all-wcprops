@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860
+END
+sctable.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860/sctable.c
+END
+readpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860/readpc.c
+END
+sc61860.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860/sc61860.h
+END
+scops.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860/scops.c
+END
+sc61860.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860/sc61860.c
+END
+sc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860/sc.h
+END
+scdasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/sc61860/scdasm.c
+END

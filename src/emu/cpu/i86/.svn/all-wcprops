@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86
+END
+i86time.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i86time.c
+END
+i286.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i286.c
+END
+ea.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/ea.h
+END
+table186.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/table186.h
+END
+table286.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/table286.h
+END
+i286.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i286.h
+END
+instr186.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/instr186.c
+END
+instr286.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/instr286.c
+END
+instr186.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/instr186.h
+END
+i86.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i86.txt
+END
+instr286.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/instr286.h
+END
+i86mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i86mem.c
+END
+i86.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i86.c
+END
+i86mem.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i86mem.h
+END
+table86.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/table86.h
+END
+i86.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i86.h
+END
+i86priv.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/i86priv.h
+END
+instr86.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/instr86.c
+END
+instr86.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/instr86.h
+END
+host.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/host.h
+END
+modrm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/i86/modrm.h
+END

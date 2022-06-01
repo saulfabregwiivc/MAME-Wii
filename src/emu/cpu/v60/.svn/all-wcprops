@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60
+END
+am3.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/am3.c
+END
+v60.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/v60.h
+END
+op12.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/op12.c
+END
+optable.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/optable.c
+END
+am.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/am.c
+END
+op2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/op2.c
+END
+op3.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/op3.c
+END
+op4.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/op4.c
+END
+op5.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/op5.c
+END
+op6.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/op6.c
+END
+op7a.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/op7a.c
+END
+v60mem.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/v60mem.c
+END
+v60.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/v60.c
+END
+am1.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/am1.c
+END
+v60d.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/v60d.c
+END
+am2.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/v60/am2.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/19/Release_1.0/src/ldplayer
+END
+ldplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/ldplayer/ldplayer.c
+END
+ldplayer.mak
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/ldplayer/ldplayer.mak
+END
+ldpdriv.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/ldplayer/ldpdriv.c
+END

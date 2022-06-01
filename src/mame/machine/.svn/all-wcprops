@@ -1,0 +1,1253 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/mame/machine
+END
+bsktball.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/bsktball.c
+END
+konamiic.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konamiic.h
+END
+mb14241.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mb14241.h
+END
+atari.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/atari.c
+END
+snesdsp1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesdsp1.c
+END
+slikshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/slikshot.c
+END
+scudsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/scudsp.c
+END
+gaelcrpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/gaelcrpt.c
+END
+naomi.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/naomi.c
+END
+harddriv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/harddriv.c
+END
+namco51.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco51.c
+END
+r2crypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/r2crypt.c
+END
+scudsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/scudsp.h
+END
+n64.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/n64.c
+END
+segacrpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/segacrpt.c
+END
+namco51.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco51.h
+END
+atarifb.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/atarifb.c
+END
+nmk004.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/nmk004.c
+END
+fd1089.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/fd1089.c
+END
+lsasquad.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/lsasquad.c
+END
+segacrpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/segacrpt.h
+END
+nmk004.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/nmk004.h
+END
+kaneko16.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/kaneko16.c
+END
+fd1089.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/fd1089.h
+END
+cx4ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cx4ops.c
+END
+williams.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/williams.c
+END
+cx4fn.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cx4fn.c
+END
+asic65.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/asic65.c
+END
+bfm_bd1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/bfm_bd1.c
+END
+system16.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/system16.c
+END
+asic65.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/asic65.h
+END
+bfm_bd1.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/bfm_bd1.h
+END
+namcond1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namcond1.c
+END
+cps2crpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cps2crpt.c
+END
+qix.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/qix.c
+END
+rainbow.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/rainbow.c
+END
+xevious.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/xevious.c
+END
+decocrpt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/decocrpt.c
+END
+starwars.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/starwars.c
+END
+pacplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pacplus.c
+END
+fd1094.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/fd1094.c
+END
+nb1413m3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/nb1413m3.c
+END
+jumpshot.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/jumpshot.c
+END
+acitya.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/acitya.c
+END
+simpsons.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/simpsons.c
+END
+fd1094.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/fd1094.h
+END
+mhavoc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mhavoc.c
+END
+stvprot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/stvprot.c
+END
+slapstic.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/slapstic.c
+END
+stvcd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/stvcd.c
+END
+bigevglf.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/bigevglf.c
+END
+stvprot.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/stvprot.h
+END
+stvcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/stvcd.h
+END
+konppc.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konppc.c
+END
+mw8080bw.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mw8080bw.c
+END
+nitedrvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/nitedrvr.c
+END
+irobot.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/irobot.c
+END
+nycaptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/nycaptor.c
+END
+leland.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/leland.c
+END
+konppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konppc.h
+END
+snesdsp2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesdsp2.c
+END
+flstory.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/flstory.c
+END
+irem_cpu.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/irem_cpu.c
+END
+cubocd32.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cubocd32.c
+END
+kabuki.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/kabuki.c
+END
+segas32.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/segas32.c
+END
+snes.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snes.c
+END
+irem_cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/irem_cpu.h
+END
+tx1.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/tx1.c
+END
+snes7110.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snes7110.c
+END
+playch10.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/playch10.c
+END
+mcr.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mcr.c
+END
+ticket.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/ticket.c
+END
+bublbobl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/bublbobl.c
+END
+snessdd1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snessdd1.c
+END
+ticket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/ticket.h
+END
+gaplus.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/gaplus.c
+END
+zs01.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/zs01.c
+END
+vsnes.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/vsnes.c
+END
+docastle.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/docastle.c
+END
+midyunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/midyunit.c
+END
+zs01.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/zs01.h
+END
+namco06.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco06.c
+END
+pgmcrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pgmcrypt.c
+END
+neoboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/neoboot.c
+END
+slapfght.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/slapfght.c
+END
+segas24.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/segas24.c
+END
+namco06.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco06.h
+END
+nmk112.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/nmk112.c
+END
+asteroid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/asteroid.c
+END
+psx.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/psx.c
+END
+snesobc1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesobc1.c
+END
+m68kfmly.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/m68kfmly.c
+END
+amiga.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/amiga.c
+END
+nmk112.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/nmk112.h
+END
+m68kfmly.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/m68kfmly.h
+END
+model3.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/model3.c
+END
+lkage.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/lkage.c
+END
+decocass.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/decocass.c
+END
+namcoio.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namcoio.c
+END
+copsnrob.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/copsnrob.c
+END
+twincobr.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/twincobr.c
+END
+decocass.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/decocass.h
+END
+namcoio.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namcoio.h
+END
+atari_vg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/atari_vg.c
+END
+cchasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cchasm.c
+END
+meters.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/meters.c
+END
+carpolo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/carpolo.c
+END
+pitnrun.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pitnrun.c
+END
+konami1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konami1.c
+END
+fddebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/fddebug.c
+END
+namcos1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namcos1.c
+END
+atari_vg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/atari_vg.h
+END
+snesdsp3.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesdsp3.c
+END
+meters.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/meters.h
+END
+konami1.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konami1.h
+END
+namco53.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco53.c
+END
+fddebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/fddebug.h
+END
+deco156.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/deco156.c
+END
+midwayic.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/midwayic.c
+END
+stfight.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/stfight.c
+END
+bonzeadv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/bonzeadv.c
+END
+namco53.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco53.h
+END
+midwayic.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/midwayic.h
+END
+dec0.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/dec0.c
+END
+mc8123.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mc8123.c
+END
+konamigx.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konamigx.c
+END
+toaplan1.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/toaplan1.c
+END
+snesrtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesrtc.c
+END
+daikaiju.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/daikaiju.c
+END
+mc8123.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mc8123.h
+END
+konamigx.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konamigx.h
+END
+s24fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/s24fd.c
+END
+seibuspi.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/seibuspi.c
+END
+snescx4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snescx4.c
+END
+volfied.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/volfied.c
+END
+scramble.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/scramble.c
+END
+snescx4.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snescx4.h
+END
+deco102.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/deco102.c
+END
+midtunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/midtunit.c
+END
+segag80.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/segag80.c
+END
+segaic16.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/segaic16.c
+END
+pckeybrd.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pckeybrd.c
+END
+kanekotb.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/kanekotb.h
+END
+buggychl.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/buggychl.c
+END
+segaic16.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/segaic16.h
+END
+subs.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/subs.c
+END
+taitosj.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/taitosj.c
+END
+vertigo.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/vertigo.c
+END
+znsec.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/znsec.c
+END
+ajax.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/ajax.c
+END
+tait8741.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/tait8741.c
+END
+pcshare.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pcshare.c
+END
+neoprot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/neoprot.c
+END
+cchip.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cchip.c
+END
+znsec.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/znsec.h
+END
+tait8741.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/tait8741.h
+END
+balsente.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/balsente.c
+END
+pcecommn.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pcecommn.c
+END
+mexico86.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mexico86.c
+END
+namcos2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namcos2.c
+END
+namco50.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco50.c
+END
+chaknpop.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/chaknpop.c
+END
+snesdsp4.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesdsp4.c
+END
+theglobp.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/theglobp.c
+END
+steppers.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/steppers.c
+END
+pcecommn.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pcecommn.h
+END
+namco50.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/namco50.h
+END
+snesdsp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesdsp4.h
+END
+naomibd.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/naomibd.c
+END
+steppers.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/steppers.h
+END
+gaelco2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/gaelco2.c
+END
+beezer.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/beezer.c
+END
+snesst10.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/snesst10.c
+END
+dc.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/dc.c
+END
+tatsumi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/tatsumi.c
+END
+cx4data.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cx4data.c
+END
+atarigen.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/atarigen.c
+END
+cx4oam.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cx4oam.c
+END
+tnzs.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/tnzs.c
+END
+atarigen.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/atarigen.h
+END
+btime.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/btime.c
+END
+midwunit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/midwunit.c
+END
+maniach.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/maniach.c
+END
+mathbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mathbox.c
+END
+neocrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/neocrypt.c
+END
+tecmosys.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/tecmosys.c
+END
+opwolf.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/opwolf.c
+END
+mathbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mathbox.h
+END
+wrally.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/wrally.c
+END
+gdcrypt.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/gdcrypt.c
+END
+spisprit.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/spisprit.c
+END
+decoprot.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/decoprot.c
+END
+cclimber.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/cclimber.c
+END
+model1.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/model1.c
+END
+seicop.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/seicop.c
+END
+s16fd.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/s16fd.c
+END
+jackal.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/jackal.c
+END
+bagman.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/bagman.c
+END
+seicop.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/seicop.h
+END
+arkanoid.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/arkanoid.c
+END
+pgmprot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pgmprot.c
+END
+pxa255.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/pxa255.h
+END
+konamiic.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/konamiic.c
+END
+archimds.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/archimds.c
+END
+mb14241.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/mb14241.c
+END
+galaxold.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/galaxold.c
+END
+retofinv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/19/Release_1.0/src/mame/machine/retofinv.c
+END

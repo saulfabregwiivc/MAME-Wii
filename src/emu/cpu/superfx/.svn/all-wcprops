@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/superfx
+END
+superfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/superfx/superfx.h
+END
+sfx_dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/superfx/sfx_dasm.c
+END
+superfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/superfx/superfx.c
+END

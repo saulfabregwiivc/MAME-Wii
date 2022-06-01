@@ -1,0 +1,617 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/19/Release_1.0/src/emu
+END
+clifront.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/clifront.h
+END
+validity.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/validity.c
+END
+sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/sound.c
+END
+tilemap.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/tilemap.c
+END
+emuopts.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/emuopts.c
+END
+uiinput.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/uiinput.c
+END
+sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/sound.h
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/input.c
+END
+output.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/output.c
+END
+tilemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/tilemap.h
+END
+emuopts.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/emuopts.h
+END
+uiinput.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/uiinput.h
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/input.h
+END
+output.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/output.h
+END
+uismall.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/19/Release_1.0/src/emu/uismall.png
+END
+ui.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/19/Release_1.0/src/emu/ui.c
+END
+state.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/state.c
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/timer.c
+END
+ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/19/Release_1.0/src/emu/ui.h
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/Release_1.0/src/emu/hash.c
+END
+cheat.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/cheat.c
+END
+eigccx86.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/eigccx86.h
+END
+devtempl.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/devtempl.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/timer.h
+END
+state.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/state.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/Release_1.0/src/emu/hash.h
+END
+cheat.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/cheat.h
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/Release_1.0/src/emu/info.c
+END
+driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/driver.c
+END
+cpuexec.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/cpuexec.c
+END
+deprecat.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/deprecat.h
+END
+rendlay.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/rendlay.c
+END
+info.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/Release_1.0/src/emu/info.h
+END
+watchdog.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/watchdog.c
+END
+driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/driver.h
+END
+cpuexec.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/cpuexec.h
+END
+rendlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/rendlay.h
+END
+watchdog.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/watchdog.h
+END
+eminline.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/eminline.h
+END
+fileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/fileio.c
+END
+devconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/devconv.h
+END
+fileio.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/fileio.h
+END
+restrack.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/restrack.c
+END
+rendfont.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/rendfont.c
+END
+inptport.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/inptport.c
+END
+mame.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/Release_1.0/src/emu/mame.c
+END
+render.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/render.c
+END
+inpttype.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/inpttype.h
+END
+devintrf.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/devintrf.c
+END
+eigccppc.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/eigccppc.h
+END
+uigfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/uigfx.c
+END
+restrack.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/restrack.h
+END
+devcb.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/devcb.c
+END
+emupal.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/emupal.c
+END
+rendfont.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/rendfont.h
+END
+inptport.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/inptport.h
+END
+mame.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/19/Release_1.0/src/emu/mame.h
+END
+render.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/render.h
+END
+rendutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/rendutil.c
+END
+devintrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/devintrf.h
+END
+attotime.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/attotime.c
+END
+uigfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/uigfx.h
+END
+mamecore.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/mamecore.c
+END
+devcb.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/devcb.h
+END
+emupal.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/emupal.h
+END
+rendersw.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/rendersw.c
+END
+attotime.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/attotime.h
+END
+rendutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/rendutil.h
+END
+mamecore.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/mamecore.h
+END
+cpuintrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/cpuintrf.h
+END
+drawgfx.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/drawgfx.c
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/config.c
+END
+audit.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/audit.c
+END
+video.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/video.c
+END
+drawgfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/drawgfx.h
+END
+inputseq.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/inputseq.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/config.h
+END
+video.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/video.h
+END
+audit.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/audit.h
+END
+emu.mak
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/19/Release_1.0/src/emu/emu.mak
+END
+inputseq.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/inputseq.h
+END
+crsshair.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/crsshair.c
+END
+profiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/profiler.c
+END
+mconfig.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/mconfig.c
+END
+crsshair.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/crsshair.h
+END
+debugger.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/debugger.c
+END
+profiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/profiler.h
+END
+mconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/mconfig.h
+END
+debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/debugger.h
+END
+sndintrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/sndintrf.h
+END
+tokenize.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/tokenize.h
+END
+romload.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/romload.c
+END
+romload.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/romload.h
+END
+uimenu.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/uimenu.c
+END
+uimenu.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/uimenu.h
+END
+memory.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/memory.c
+END
+memconv.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/memconv.h
+END
+memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/19/Release_1.0/src/emu/memory.h
+END
+streams.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/streams.c
+END
+clifront.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/clifront.c
+END
+streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/19/Release_1.0/src/emu/streams.h
+END
+drawgfxm.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/emu/drawgfxm.h
+END

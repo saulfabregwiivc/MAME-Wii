@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/19/Release_1.0/prec-build
+END
+m68kmake.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/prec-build/m68kmake.exe
+END
+verinfo.exe
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/prec-build/verinfo.exe
+END
+file2str.exe
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/19/Release_1.0/prec-build/file2str.exe
+END
+png2bdc.exe
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/prec-build/png2bdc.exe
+END
+tmsmake.exe
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/19/Release_1.0/prec-build/tmsmake.exe
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader
+END
+glsl_bilinear.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_bilinear.vsh
+END
+glsl_bilinear_idx16_lut.fsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_bilinear_idx16_lut.fsh.c
+END
+glsl_plain_rgb32_lut.fsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_plain_rgb32_lut.fsh.c
+END
+glsl_bilinear_rgb32_lut.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_bilinear_rgb32_lut.fsh
+END
+glsl_general.vsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_general.vsh.c
+END
+glsl_plain_rgb32_dir.fsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_plain_rgb32_dir.fsh.c
+END
+glsl_bilinear_rgb32_dir.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_bilinear_rgb32_dir.fsh
+END
+glsl_plain.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_plain.vsh
+END
+glsl_plain_idx16_lut.fsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_plain_idx16_lut.fsh.c
+END
+glsl_bilinear_idx16_lut.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_bilinear_idx16_lut.fsh
+END
+genc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/genc.sh
+END
+glsl_plain_rgb32_lut.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_plain_rgb32_lut.fsh
+END
+glsl_bilinear_rgb32_lut.fsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_bilinear_rgb32_lut.fsh.c
+END
+glsl_general.vsh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_general.vsh
+END
+glsl_plain_rgb32_dir.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_plain_rgb32_dir.fsh
+END
+glsl_plain_idx16_lut.fsh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_plain_idx16_lut.fsh
+END
+glsl_bilinear_rgb32_dir.fsh.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/glsl_bilinear_rgb32_dir.fsh.c
+END
+misc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/19/Release_1.0/src/osd/sdl/shader/misc.sh
+END

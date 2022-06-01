@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/mc68hc11
+END
+mc68hc11.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/mc68hc11/mc68hc11.c
+END
+hc11ops.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/mc68hc11/hc11ops.c
+END
+mc68hc11.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/mc68hc11/mc68hc11.h
+END
+hc11dasm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/mc68hc11/hc11dasm.c
+END
+hc11ops.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/mc68hc11/hc11ops.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/pic16c5x
+END
+pic16c5x.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/pic16c5x/pic16c5x.c
+END
+dis16c5x.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/pic16c5x/dis16c5x.c
+END
+pic16c5x.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/pic16c5x/pic16c5x.h
+END
+16c5xdsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/19/Release_1.0/src/emu/cpu/pic16c5x/16c5xdsm.c
+END
