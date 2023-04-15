@@ -30,7 +30,7 @@ static GXRModeObj *vmode;
 static GXTexObj texObj;
 static GXTexObj blankTex;
 
-static unsigned char *xfb[2];
+u32 *xfb[2];
 static int currfb;
 static unsigned char *gp_fifo;
 
