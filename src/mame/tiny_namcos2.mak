@@ -1,8 +1,8 @@
 ###########################################################################
 #
-#   tiny.mak
+#   tiny_namcos2.mak
 #
-#   Small driver-specific example makefile
+#   Small MAME WIi build for Namco System 2driver makefile
 #	Use make SUBTARGET=tiny to build
 #
 #   Copyright Nicola Salmoria and the MAME Team.
@@ -64,7 +64,7 @@ SOUNDS += YM2151
 #-------------------------------------------------
 
 DRVLIBS = \
-	$(MAMEOBJ)/tiny.o \
+	$(MAMEOBJ)/tiny_namcos2.o \
 	$(MACHINE)/ticket.o \
 	$(DRIVERS)/namcoic.o \
 	$(DRIVERS)/namcos2.o $(MACHINE)/namcos2.o $(VIDEO)/namcos2.o \
