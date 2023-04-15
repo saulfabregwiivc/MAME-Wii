@@ -32,7 +32,7 @@
 #define DRIVER(NAME) &GAME_NAME(NAME),
 const game_driver * const drivers[] =
 {
-#include "tiny.c"
+#include "tiny_namcos2.c"
 	0	/* end of array */
 };
 

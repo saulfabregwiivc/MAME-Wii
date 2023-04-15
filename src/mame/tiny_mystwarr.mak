@@ -1,8 +1,8 @@
 ###########################################################################
 #
-#   tiny_namcos2.mak
+#   tiny_mystwarr.mak
 #
-#   Small MAME Wii build for 'Namco System 2' driver makefile
+#   Small MAME Wii build for Konami 'Mystic Warriors' driver makefile
 #	Use make SUBTARGET=tiny to build
 #
 #   Copyright Nicola Salmoria and the MAME Team.
@@ -34,8 +34,6 @@ OBJDIRS += \
 #-------------------------------------------------
 
 CPUS += M680X0
-CPUS += M6809
-CPUS += M6805
 CPUS += Z80
 CPUS += MCS48
 
@@ -50,10 +48,7 @@ SOUNDS += CUSTOM
 SOUNDS += SAMPLES
 SOUNDS += DAC
 SOUNDS += DISCRETE
-SOUNDS += NAMCO
-SOUNDS += RF5C68
-SOUNDS += C140
-SOUNDS += YM2151
+SOUNDS += K054539
 
 
 
@@ -64,17 +59,14 @@ SOUNDS += YM2151
 #-------------------------------------------------
 
 DRVLIBS = \
-	$(MAMEOBJ)/tiny_namcos2.o \
+	$(MAMEOBJ)/tiny_mystwarr.o \
 	$(MACHINE)/ticket.o \
-	$(DRIVERS)/namcoic.o \
-	$(DRIVERS)/namcos2.o $(MACHINE)/namcos2.o $(VIDEO)/namcos2.o \
-	$(DRIVERS)/namcos21.o $(VIDEO)/namcos21.o \
-	$(AUDIO)/targ.o \
+	$(MACHINE)/konamigx.o \
+	$(VIDEO)/konamiic.o \
+	$(DRIVERS)/mystwarr.o $(VIDEO)/mystwarr.o \
 
 
 
 #-------------------------------------------------
 # layout dependencies
 #-------------------------------------------------
-
-$(DRIVERS)/namcos2.o:	$(LAYOUT)/finallap.lh
