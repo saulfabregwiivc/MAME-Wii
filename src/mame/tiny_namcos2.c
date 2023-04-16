@@ -2,7 +2,7 @@
 
     tiny_namcos2.c
 
-    mamedriv.c substitute file for "tiny" MAME builds.
+    mamedriv.c substitute file for tiny MAME build for Namco System 2.
 
     Copyright Nicola Salmoria and the MAME Team.
     Visit http://mamedev.org for licensing and usage restrictions.

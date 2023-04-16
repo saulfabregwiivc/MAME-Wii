@@ -2,7 +2,7 @@
 
     tiny_mystwarr.c
 
-    mamedriv.c substitute file for "tiny" MAME builds.
+    mamedriv.c substitute file for tiny MAME build for Konami Mystic Warriors.
 
     Copyright Nicola Salmoria and the MAME Team.
     Visit http://mamedev.org for licensing and usage restrictions.

@@ -2,8 +2,8 @@
 #
 #   tiny_mystwarr.mak
 #
-#   Small MAME Wii build for Konami 'Mystic Warriors' driver makefile
-#	Use make SUBTARGET=tiny to build
+#   tiny MAME Wii build for Konami 'Mystic Warriors' driver makefile
+#	Use 'make SUBTARGET=tiny_mystwarr' to build
 #
 #   Copyright Nicola Salmoria and the MAME Team.
 #   Visit  http://mamedev.org for licensing and usage restrictions.

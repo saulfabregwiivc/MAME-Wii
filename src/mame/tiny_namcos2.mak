@@ -2,8 +2,8 @@
 #
 #   tiny_namcos2.mak
 #
-#   Small MAME Wii build for 'Namco System 2' driver makefile
-#	Use make SUBTARGET=tiny to build
+#   tiny MAME Wii build for 'Namco System 2' driver makefile
+#	Use 'make SUBTARGET=tiny_namcos2' to build
 #
 #   Copyright Nicola Salmoria and the MAME Team.
 #   Visit  http://mamedev.org for licensing and usage restrictions.
