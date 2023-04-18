@@ -2,7 +2,7 @@
 #
 #   tiny_deco32.mak
 #
-#   tiny MAME Wii build for 'Data East 32-bit' driver makefile
+#   tiny MAME Wii build for 'Data East DECO32' driver makefile
 #	Use 'make SUBTARGET=tiny_deco32' to build
 #
 #   Copyright Nicola Salmoria and the MAME Team.

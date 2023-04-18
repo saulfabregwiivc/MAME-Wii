@@ -2,7 +2,7 @@
 
     tiny_deco32.c
 
-    mamedriv.c substitute file for tiny MAME build for Data East 32-bit (deco32).
+    mamedriv.c substitute file for tiny MAME build for Data East DECO32.
 
     Copyright Nicola Salmoria and the MAME Team.
     Visit http://mamedev.org for licensing and usage restrictions.
@@ -38,7 +38,7 @@ const game_driver * const drivers[] =
 
 #else	/* DRIVER_RECURSIVE */
 
-	/* some Data East 32-bit games */
+	/* Data East DECO32 (32-bit) games */
 	DRIVER( captaven )	/* MAN (c) 1991 Data East Corporation (Asia) */
 	DRIVER( captavena )	/* MAN (c) 1991 Data East Corporation (Asia) */
 	DRIVER( captavene )	/* MAN (c) 1991 Data East Corporation (UK) */
